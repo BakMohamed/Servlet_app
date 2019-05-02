@@ -12,7 +12,9 @@ La structure générale du projet :
                   
 
        *test -->java -->com-->hatim--> app-->  AppTest.java
+       
        *target
+       
        *pom.xml
 
 Remarques : 
